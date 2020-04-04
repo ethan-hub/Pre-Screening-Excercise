@@ -9,8 +9,8 @@
 ##### languages during school,
 ##### assessing the languages #
 ##### instruction sets, and ###
-##### overall performance over
-##### over different algorithms
+##### overall performance with
+##### different algorithms ####
 ##### .                   #####
 import re
 import math
