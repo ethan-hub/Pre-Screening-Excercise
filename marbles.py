@@ -154,3 +154,20 @@ print("time " + str(t71-t70))
 print("time " + str(t81-t80))
 print("time " + str(t91-t90))
 print("time " + str(t110-t100))
+##### These are the number's I got the final
+##### time I ran the code. If you wish to ###
+##### display your results in a csv. format #
+##### you can add another print funtion #####
+##### however I chose to copy and paste the #
+##### results into excell.              #####
+##### number of objects	|execution time #####
+#####    10	             0.010565519    #####
+#####    20	             0.021596909    #####
+#####    40	             0.036239386    #####
+#####    80	             0.063313961    #####
+#####    160	         0.111101627    #####
+#####    320	         0.216980696    #####
+#####    740	         0.435228825    #####
+#####    1480	         0.838098049    #####
+#####    2960	         1.727558136    #####
+#####    5920	         3.4588902      33333
