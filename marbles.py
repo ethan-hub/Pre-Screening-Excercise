@@ -53,11 +53,12 @@ class Marble(object):
         return filtered_list
 
 ##### When tracking the time and space complexity #####
-##### of this algorithm, I am double the data set #####
-##### and then recording the execution times for  #####
-##### the algorithm to sort the marbles. After    #####
-##### each data set has ran, I will include ##
-##### a vizualization of the data.                #####
+##### of this algorithm, I am doubling the data set ###
+##### and recording the execution times for the   #####
+##### algorithm to sort the marbles. After each   #####
+##### data set has ran, I will include a          #####
+##### vizualization of the data in the image file #####
+##### on this repository.                         #####
 ##### Data set one (a) #####
 m0=Marble(id=1, color="blue", name="Bob", weight=0.5 )
 m1=Marble(id=2, color="red", name="John Smith", weight=0.25 )
